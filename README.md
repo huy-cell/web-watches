@@ -6,7 +6,7 @@ Welcome to Watches Website, your gateway to a world of horological wonders! This
 Step into the realm of timeless elegance with our live demo. [Explore Here](https://huy-cell.github.io/web-watches/)!
 
 ### Unveiling the Source Code 💻
-Peek behind the curtain and explore the inner workings of Watches Website. [Access the Source Code Here](link_sourcecode)!
+Peek behind the curtain and explore the inner workings of Watches Website. [Access the Source Code Here](https://github.com/huy-cell/web-watches/tree/master)!
 
 ### Key Features ✨
 - **Sleek Interface:** Immerse yourself in a visually stunning and intuitive interface designed for seamless navigation. Our emphasis on user interface (UI) and user experience (UX) ensures that every interaction is delightful.
